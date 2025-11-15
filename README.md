@@ -22,7 +22,7 @@
 - JavaScript, TypeScript  
 - Tailwind CSS, SCSS  
 - Framer Motion, GSAP  
-- Redux Toolkit, Zustand  
+- Redux Toolkit
 
 **Tools**
 - Git, GitHub  
