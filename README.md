@@ -9,9 +9,9 @@
 
 ## 🚀 About Me
 - Passionate Front-end Developer specialized in **React** and **Next.js**  
-- Focused on building **high-performance websites** with strong UX  
+- Focused on building **high-performance websites** with strong UX and **great animations**
 - Experienced with **TailwindCSS, Framer Motion, GSAP, Redux Toolkit**  
-- Always improving, learning, and building real-world projects  
+- Always improving, learning, and trying to be better  
 
 ---
 
@@ -39,31 +39,41 @@ Check out my portfolio and real projects here:
 
 ## 📌 Featured Projects
 
-### 🌸 **Sakura E-commerce**
+### 🌸  **Sakura   E-commerce**
 Modern E-commerce store with full cart system, animations, filtering, favorites, and dynamic product pages.  
-🔗 Live Demo: https://sakura-kohl.vercel.app/  
-🔗 Repo: *Add Repo Link Here*
+🔗 Live Demo:  **https://sakura-kohl.vercel.app/**  
+🔗 Repo: **https://github.com/MoSaeed450/Sakura**
+
 
 ---
 
-### 🎨 **Modern Portfolio**
+### 🌱  **NutriMind   Health-Tracker**
+A health and wellness platform that calculates personalized calories, tracks daily activities and mood, and visualizes progress with interactive charts — all with smooth animations and full responsiveness.
+🔗 Live Demo: **https://nutri-mind-lemon.vercel.app/**  
+🔗 Repo: **https://github.com/MoSaeed450/NutriMind**
+
+---
+
+### 💡  **Lena   Productivity-platform**
+Modern focus and productivity platform with Pomodoro timers, ambient sounds, task management, demo collaboration-mode, and goal tracking with streak visualization.
+🔗 Live Demo:  **https://lena-sandy.vercel.app/** 
+🔗 Repo:  **https://github.com/MoSaeed450/Lena**
+
+---
+
+### 🎨 **Portfolio**
 Personal portfolio showcasing my work, animations, and responsive UI.  
-🔗 Live Demo: *Add Link Here*  
-🔗 Repo: *Add Repo Link Here*
+🔗 Live Demo: **https://portofolio-sand-delta-20.vercel.app/**  
+🔗 Repo: **https://github.com/MoSaeed450/Portofolio**
 
 ---
-
-### 🏋️ **Fitness Tracker UI**
-Landing page with charts, animations, and mobile-first experience.  
-🔗 Live Demo: *Add Link Here*  
-🔗 Repo: *Add Repo Link Here*
-
----
-
 ## 📫 Contact Me
-- **Email:** add-your-email-here  
-- **LinkedIn:** add-your-linkedin-here  
-- **Upwork:** add-your-upwork-here  
+
+- **Email:** **mosaeed162005@gmail.com**
+
+- **Upwork:** **https://www.upwork.com/freelancers/~01c5b6713470336779**  
+
+- **LinkedIn:** **https://www.linkedin.com/in/mohamed-saeeed-609451317/**  
 
 ---
 
