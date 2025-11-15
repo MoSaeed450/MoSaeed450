@@ -58,7 +58,8 @@ A health and wellness platform that calculates personalized calories, tracks dai
 ### 💡  **Lena~~~Productivity-platform**
 Modern focus and productivity platform with Pomodoro timers, ambient sounds, task management, demo collaboration-mode, and goal tracking with streak visualization.
 
-🔗 Live Demo:  **https://lena-sandy.vercel.app/** 
+🔗 Live Demo:  **https://lena-sandy.vercel.app/**
+
 🔗 Repo:  **https://github.com/MoSaeed450/Lena**
 
 ---
