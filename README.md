@@ -39,22 +39,23 @@ Check out my portfolio and real projects here:
 
 ## 📌 Featured Projects
 
-### 🌸  **Sakura   E-commerce**
-Modern E-commerce store with full cart system, animations, filtering, favorites, and dynamic product pages.  
+### 🌸  **Sakura~~~E-commerce**
+Modern E-commerce store with full cart and favourites system, dynamic filtering, animations, and dynamic product pages.  
 🔗 Live Demo:  **https://sakura-kohl.vercel.app/**  
 🔗 Repo: **https://github.com/MoSaeed450/Sakura**
 
 
 ---
 
-### 🌱  **NutriMind   Health-Tracker**
+### 🌱  **NutriMind~~~Health-Tracker**
 A health and wellness platform that calculates personalized calories, tracks daily activities and mood, and visualizes progress with interactive charts — all with smooth animations and full responsiveness.
+
 🔗 Live Demo: **https://nutri-mind-lemon.vercel.app/**  
 🔗 Repo: **https://github.com/MoSaeed450/NutriMind**
 
 ---
 
-### 💡  **Lena   Productivity-platform**
+### 💡  **Lena~~~Productivity-platform**
 Modern focus and productivity platform with Pomodoro timers, ambient sounds, task management, demo collaboration-mode, and goal tracking with streak visualization.
 🔗 Live Demo:  **https://lena-sandy.vercel.app/** 
 🔗 Repo:  **https://github.com/MoSaeed450/Lena**
