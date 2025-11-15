@@ -41,7 +41,7 @@ Check out my portfolio and real projects here:
 
 ### 🌸 **Sakura E-commerce**
 Modern E-commerce store with full cart system, animations, filtering, favorites, and dynamic product pages.  
-🔗 Live Demo: *Add Link Here*  
+🔗 Live Demo: https://sakura-kohl.vercel.app/  
 🔗 Repo: *Add Repo Link Here*
 
 ---
