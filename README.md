@@ -44,7 +44,7 @@ Modern E-commerce store with full cart and favourites system, dynamic filtering,
 
 🔗 Live Demo:  **https://sakura-kohl.vercel.app/**  
 
-🔗 Repo: **https://github.com/MoSaeed450/Sakura**
+🔗 Repo: **https://github.com/MoSaeed450/Sakura-project**
 
 
 ---
@@ -53,7 +53,7 @@ Modern E-commerce store with full cart and favourites system, dynamic filtering,
 A health and wellness platform that calculates personalized calories, tracks daily activities and mood, and visualizes progress with interactive charts — all with smooth animations and full responsiveness.
 
 🔗 Live Demo: **https://nutri-mind-lemon.vercel.app/**  
-🔗 Repo: **https://github.com/MoSaeed450/NutriMind**
+🔗 Repo: **https://github.com/MoSaeed450/NutriMind-project**
 
 ---
 
@@ -62,7 +62,7 @@ Modern focus and productivity platform with Pomodoro timers, ambient sounds, tas
 
 🔗 Live Demo:  **https://lena-sandy.vercel.app/**
 
-🔗 Repo:  **https://github.com/MoSaeed450/Lena**
+🔗 Repo:  **https://github.com/MoSaeed450/Lena-project**
 
 ---
 
@@ -71,7 +71,7 @@ Personal portfolio showcasing my work, animations, and responsive UI.
 
 🔗 Live Demo: **https://portofolio-sand-delta-20.vercel.app/**  
 
-🔗 Repo: **https://github.com/MoSaeed450/Portofolio**
+🔗 Repo: **https://github.com/MoSaeed450/Portofolio-p**
 
 ---
 ## 📫 Contact Me
