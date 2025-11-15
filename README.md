@@ -41,7 +41,9 @@ Check out my portfolio and real projects here:
 
 ### 🌸  **Sakura~~~E-commerce**
 Modern E-commerce store with full cart and favourites system, dynamic filtering, animations, and dynamic product pages.  
+
 🔗 Live Demo:  **https://sakura-kohl.vercel.app/**  
+
 🔗 Repo: **https://github.com/MoSaeed450/Sakura**
 
 
@@ -66,7 +68,9 @@ Modern focus and productivity platform with Pomodoro timers, ambient sounds, tas
 
 ### 🎨 **Portfolio**
 Personal portfolio showcasing my work, animations, and responsive UI.  
+
 🔗 Live Demo: **https://portofolio-sand-delta-20.vercel.app/**  
+
 🔗 Repo: **https://github.com/MoSaeed450/Portofolio**
 
 ---
