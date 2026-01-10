@@ -65,7 +65,14 @@ Modern focus and productivity platform with Pomodoro timers, ambient sounds, tas
 🔗 Repo:  **https://github.com/MoSaeed450/Lena-project**
 
 ---
+### 📖  **Serah~~~Biography Website**
+An immersive bilingual website presenting the life of Prophet Muhammad (ﷺ) through scroll-driven visuals, interactive history, and a complete legacy page.
 
+🔗 Live Demo:  **https://sera-eight-bice.vercel.app/ar**
+
+🔗 Repo:  **https://github.com/MoSaeed450/Serah-Project**
+
+---
 ### 🎨 **Portfolio**
 Personal portfolio showcasing my work, animations, and responsive UI.  
 
