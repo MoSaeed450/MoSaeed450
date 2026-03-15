@@ -31,11 +31,6 @@
 
 ---
 
-## 🌐 Portfolio
-Check out my portfolio and real projects here:  
-👉 **https://portofolio-sand-delta-20.vercel.app/**
-
----
 
 ## 📌 Featured Projects
 
@@ -49,38 +44,6 @@ Modern E-commerce store with full cart and favourites system, dynamic filtering,
 
 ---
 
-### 🌱  **NutriMind~~~Health-Tracker**
-A health and wellness platform that calculates personalized calories, tracks daily activities and mood, and visualizes progress with interactive charts — all with smooth animations and full responsiveness.
-
-🔗 Live Demo: **https://nutri-mind-lemon.vercel.app/**  
-🔗 Repo: **https://github.com/MoSaeed450/NutriMind-project**
-
----
-
-### 💡  **Lena~~~Productivity-platform**
-Modern focus and productivity platform with Pomodoro timers, ambient sounds, task management, demo collaboration-mode, and goal tracking with streak visualization.
-
-🔗 Live Demo:  **https://lena-sandy.vercel.app/**
-
-🔗 Repo:  **https://github.com/MoSaeed450/Lena-project**
-
----
-### 📖  **Serah~~~Biography Website**
-An immersive bilingual website presenting the life of Prophet Muhammad (ﷺ) through scroll-driven visuals, interactive history, and a complete legacy page.
-
-🔗 Live Demo:  **https://sera-eight-bice.vercel.app/ar**
-
-🔗 Repo:  **https://github.com/MoSaeed450/Serah-Project**
-
----
-### 🎨 **Portfolio**
-Personal portfolio showcasing my work, animations, and responsive UI.  
-
-🔗 Live Demo: **https://portofolio-sand-delta-20.vercel.app/**  
-
-🔗 Repo: **https://github.com/MoSaeed450/Portofolio-p**
-
----
 ## 📫 Contact Me
 
 - **Email:** **mosaeed162005@gmail.com**
